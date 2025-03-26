@@ -1,0 +1,9 @@
+{
+  "name": "veltis-contracts",
+  "version": "0.1.0",
+  "description": "Smart Contracts for Veltis - Biotech IP Tokenization Platform",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Veltiscapital/veltis-contracts.git"
+  }
+}
